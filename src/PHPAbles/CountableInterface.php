@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PHPAbles\Countable;
+namespace PHPAbles;
 
 use Countable;
 
