@@ -1,5 +1,5 @@
 {
-    "name": "potter/countable",
+    "name": "php-ables/countable",
     "description": "PHP Countable Interface",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Countable\\": "src/Potter/Countable/"
+            "PHPAbles\\Countable\\": "src/PHPAbles/Countable/"
         }
     },
     "authors": [
